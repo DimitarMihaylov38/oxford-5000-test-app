@@ -1,0 +1,7935 @@
+[
+  {
+    "word": "ability",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "кадърност",
+    "bgAlternatives": [
+      "вещина",
+      "ловкост",
+      "дарба",
+      "способност",
+      "умение"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "abroad",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "чужбина",
+    "bgAlternatives": [
+      "граница",
+      "странство",
+      "навсякъде",
+      "в чужбина",
+      "извън къщи",
+      "открито"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "accept",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "акцептирам",
+    "bgAlternatives": [
+      "понасям",
+      "приема",
+      "приемам",
+      "разбирам",
+      "съгласявам се"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "accident",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "злополука",
+    "bgAlternatives": [
+      "авария",
+      "инцидент",
+      "катастрофа",
+      "пътнотранспортно произшествие"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "according to",
+    "pos": "prep.",
+    "level": "A2",
+    "bg": "според",
+    "bgAlternatives": [
+      "в съгласие с",
+      "съответно"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "achieve",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "осъществявам",
+    "bgAlternatives": [
+      "реализирам",
+      "достигам",
+      "постигам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "act",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "действие",
+    "bgAlternatives": [
+      "акт",
+      "закон",
+      "деяние",
+      "постъпка",
+      "документ",
+      "върша",
+      "правя",
+      "държа",
+      "постъпвам",
+      "постъпя",
+      "въздействам",
+      "играя",
+      "действам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "active",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "активен",
+    "bgAlternatives": [
+      "деен",
+      "енергичен",
+      "действащ",
+      "деятелен",
+      "действителен"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "actually",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "в действителност",
+    "bgAlternatives": [
+      "всъщност"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "advantage",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "предимство",
+    "bgAlternatives": [
+      "преимущество",
+      "благоприятствам",
+      "подпомагам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "adventure",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "приключение",
+    "bgAlternatives": [
+      "събитие",
+      "авантюра",
+      "похождение",
+      "осмелявам се",
+      "рискувам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "advertise",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "информирам",
+    "bgAlternatives": [
+      "обявявам",
+      "рекламирам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "advertisement",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "реклама",
+    "bgAlternatives": [
+      "[[рекламен|рекламна]] [[обява]]",
+      "анонс",
+      "обява",
+      "обявление"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "advertising",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "реклама",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "affect",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "афект",
+    "bgAlternatives": [
+      "въздействам",
+      "действам",
+      "имитирам",
+      "преструвам се",
+      "вълнувам",
+      "засягам",
+      "поразявам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "against",
+    "pos": "prep.",
+    "level": "A2",
+    "bg": "против",
+    "bgAlternatives": [
+      "обратно на",
+      "до",
+      "на фона на",
+      "срещу",
+      "за"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "airline",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "авиокомпания",
+    "bgAlternatives": [
+      "авиолиния"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "alive",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "жив",
+    "bgAlternatives": [
+      "чувствителен",
+      "енергичен",
+      "оживен",
+      "гъмжащ"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "allow",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "позволявам",
+    "bgAlternatives": [
+      "разрешавам",
+      "допускам",
+      "давам",
+      "признавам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "almost",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "почти",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "already",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "вече",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "alternative",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "алтернативен",
+    "bgAlternatives": [
+      "алтернатива"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "although",
+    "pos": "conj.",
+    "level": "A2",
+    "bg": "въпреки че",
+    "bgAlternatives": [
+      "макар че",
+      "при все че"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "among",
+    "pos": "prep.",
+    "level": "A2",
+    "bg": "сред",
+    "bgAlternatives": [
+      "между"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "amount",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "количество",
+    "bgAlternatives": [
+      "сбор",
+      "сума",
+      "достигам до",
+      "възлизам на",
+      "съставлявам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "ancient",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "античен",
+    "bgAlternatives": [
+      "древен",
+      "стар",
+      "старинен"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "ankle",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "глезен",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "anybody",
+    "pos": "pron.",
+    "level": "A2",
+    "bg": "важна клечка",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "app",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "приложение",
+    "bgAlternatives": [
+      "програма"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "appear",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "покажа",
+    "bgAlternatives": [
+      "показвам",
+      "появя се",
+      "появявам се",
+      "явя се",
+      "явявам се"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "appearance",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "появяване",
+    "bgAlternatives": [
+      "явяване",
+      "явление",
+      "външен вид",
+      "външност",
+      "прилика"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "apply",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "прилагам",
+    "bgAlternatives": [
+      "употребявам",
+      "кандидатствам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "architect",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "архитект",
+    "bgAlternatives": [
+      "архитектка"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "architecture",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "архитектура",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "argue",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "споря",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "argument",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "спор",
+    "bgAlternatives": [
+      "дискусия",
+      "аргумент",
+      "довод"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "army",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "войска",
+    "bgAlternatives": [
+      "армия"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "arrange",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "систематизирам",
+    "bgAlternatives": [
+      "нареждам",
+      "подреждам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "arrangement",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "подреждане",
+    "bgAlternatives": [
+      "мярка",
+      "приготовление",
+      "договореност",
+      "аранжимент"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "asleep",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "заспал",
+    "bgAlternatives": [
+      "спящ",
+      "изтръпнал"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "athlete",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "лекоатлет",
+    "bgAlternatives": [
+      "лекоатлетка",
+      "атлет",
+      "атлетка",
+      "спортист",
+      "спортистка"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "attend",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "посещавам",
+    "bgAlternatives": [
+      "присъствам",
+      "грижа се",
+      "обръщам внимание",
+      "прислужвам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "attractive",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "притегателен",
+    "bgAlternatives": [
+      "привлекателен"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "audience",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "аудитория",
+    "bgAlternatives": [
+      "публика",
+      "аудиенция",
+      "читател"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "author",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "автор",
+    "bgAlternatives": [
+      "авторка",
+      "творец",
+      "създавам",
+      "творя"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "available",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "валиден",
+    "bgAlternatives": [
+      "годен",
+      "полезен",
+      "наличен",
+      "разполагаем"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "avoid",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "отбягвам",
+    "bgAlternatives": [
+      "страня от",
+      "анулирам",
+      "отменям"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "award",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "отсъждане",
+    "bgAlternatives": [
+      "решение",
+      "награда",
+      "награждавам",
+      "присъждам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "awful",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "отвратителен",
+    "bgAlternatives": [
+      "ужасен",
+      "страшен",
+      "внушаващ страх",
+      "ужасно"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "background",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "фон",
+    "bgAlternatives": [
+      "заден план"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "badly",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "зле",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "bar",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "пръчка",
+    "bgAlternatives": [
+      "бар",
+      "ивица",
+      "кръчма",
+      "механа",
+      "пивница",
+      "черта",
+      "барче",
+      "забрана",
+      "запрещение",
+      "адвокатура",
+      "летва",
+      "преграждам",
+      "изключвам",
+      "отстранявам",
+      "пускам резе"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "baseball",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "бейзбол",
+    "bgAlternatives": [
+      "бейзболна топка"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "based",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "базиран",
+    "bgAlternatives": [
+      "бейсд",
+      "основан"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "basketball",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "баскетбол",
+    "bgAlternatives": [
+      "баскетболна топка"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "bean",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "боб",
+    "bgAlternatives": [
+      "фасул",
+      "шушулка",
+      "тиква",
+      "мангизи"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "beat",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "ритъм",
+    "bgAlternatives": [
+      "такт",
+      "бия",
+      "надвивам",
+      "побеждавам",
+      "удрям"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "beef",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "говежди",
+    "bgAlternatives": [
+      "говеждо"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "behave",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "държа",
+    "bgAlternatives": [
+      "постъпвам",
+      "постъпя",
+      "[[държа|държа се]] [[добре]]"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "belong",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "принадлежа",
+    "bgAlternatives": [
+      "членувам",
+      "собственост съм на"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "belt",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "колан",
+    "bgAlternatives": [
+      "ремък",
+      "зона",
+      "пояс",
+      "обгръщам",
+      "опасвам",
+      "препасвам",
+      "бия с каиш"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "benefit",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "авантаж",
+    "bgAlternatives": [
+      "доход",
+      "изгода",
+      "полза",
+      "[[социална]] [[помощ]]",
+      "бенефис",
+      "печалба",
+      "ползвам някого"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "bin",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "бункер",
+    "bgAlternatives": [
+      "хамбар",
+      "кофа за смет"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "biology",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "биология",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "birth",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "раждане",
+    "bgAlternatives": [
+      "рождение",
+      "начало",
+      "произход",
+      "потекло",
+      "раждам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "biscuit",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "бисквита",
+    "bgAlternatives": [
+      "сухар",
+      "неглазирана керамика"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "bit",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "захапка",
+    "bgAlternatives": [
+      "бит",
+      "свредло",
+      "фреза",
+      "късче",
+      "частица",
+      "малко",
+      "парче"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "blood",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "кръв",
+    "bgAlternatives": [
+      "родство",
+      "[[кръвен|кръвна]] [[проба]]",
+      "изцапвам с кръв"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "blow",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "удар",
+    "bgAlternatives": [
+      "духам",
+      "вея",
+      "взривявам се",
+      "експлодирам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "board",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "дъска",
+    "bgAlternatives": [
+      "табло",
+      "борд",
+      "комитет",
+      "съвет",
+      "пансион",
+      "мантинела",
+      "трапеза",
+      "поле",
+      "качвам се на борда",
+      "настанявам",
+      "настанен съм",
+      "взимам на абордаж"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "boil",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "цирей",
+    "bgAlternatives": [
+      "точка на кипене",
+      "ято",
+      "кипвам",
+      "кипя",
+      "варя",
+      "завирам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "bone",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "кост",
+    "bgAlternatives": [
+      "кокал",
+      "костица",
+      "обезкостявам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "borrow",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "вземам назаем",
+    "bgAlternatives": [
+      "заемам",
+      "възприемам",
+      "заимствам",
+      "пренасям"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "boss",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "шеф",
+    "bgAlternatives": [
+      "ръководител",
+      "ръководителка",
+      "шефка",
+      "издатина",
+      "изпъкналост",
+      "релеф",
+      "розетка",
+      "умбо",
+      "работодател",
+      "работодателка",
+      "лидер",
+      "шефе",
+      "бос",
+      "разпореждам се"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "bowl",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "паница",
+    "bgAlternatives": [
+      "купа",
+      "огнище"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "brain",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "мозък",
+    "bgAlternatives": [
+      "разсъдък",
+      "ум"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "bridge",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "мост",
+    "bgAlternatives": [
+      "бридж",
+      "мостик"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "bright",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "светъл",
+    "bgAlternatives": [
+      "ярък",
+      "буден",
+      "весел",
+      "жив",
+      "умен"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "brilliant",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "блестящ",
+    "bgAlternatives": [
+      "ярък",
+      "искрящ",
+      "великолепен",
+      "брилянт"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "broken",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "разорен",
+    "bgAlternatives": [
+      "разкъсан",
+      "счупен",
+      "повреден",
+      "разбит",
+      "прекъснат",
+      "съсипан"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "burn",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "изгаряне",
+    "bgAlternatives": [
+      "ручей",
+      "горя",
+      "изгарям",
+      "прегрявам",
+      "прегрявам се",
+      "обгарям",
+      "записвам",
+      "пека"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "businessman",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "бизнесмен",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "button",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "копче",
+    "bgAlternatives": [
+      "бутон",
+      "значка",
+      "пъпка"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "camping",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "къмпинг",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "careful",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "внимателен",
+    "bgAlternatives": [
+      "грижлив",
+      "акуратен",
+      "старателен"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "carefully",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "внимателно",
+    "bgAlternatives": [
+      "грижливо"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "carpet",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "килим",
+    "bgAlternatives": [
+      "мокет",
+      "застилам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "cartoon",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "карикатура",
+    "bgAlternatives": [
+      "мултипликация",
+      "графика"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "case",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "дело",
+    "bgAlternatives": [
+      "случай",
+      "кашон",
+      "сандък",
+      "кутия",
+      "калъф",
+      "процес",
+      "куфар",
+      "витрина",
+      "кожух",
+      "опаковам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "cash",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "кеш",
+    "bgAlternatives": [
+      "налични пари",
+      "пари в брой",
+      "пари",
+      "осребрявам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "castle",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "замък",
+    "bgAlternatives": [
+      "правя рокада"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "catch",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "разбиране",
+    "bgAlternatives": [
+      "схващане",
+      "улов",
+      "хващане",
+      "резе",
+      "уловка",
+      "улавяне",
+      "хващам",
+      "улавям",
+      "закачам се",
+      "схващам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "celebrate",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "прославя",
+    "bgAlternatives": [
+      "прославям",
+      "ознаменувам",
+      "чествам",
+      "празнувам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "celebrity",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "известност",
+    "bgAlternatives": [
+      "звезда",
+      "знаменитост"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "certain",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "сигурен",
+    "bgAlternatives": [
+      "уверен",
+      "някакъв",
+      "някой си",
+      "определен"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "certainly",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "сигурно",
+    "bgAlternatives": [
+      "безспорно",
+      "несъмнено",
+      "разбира се"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "chance",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "случаен",
+    "bgAlternatives": [
+      "шанс",
+      "възможност",
+      "случайност",
+      "вероятност",
+      "попадам на",
+      "рискувам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "character",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "герой",
+    "bgAlternatives": [
+      "действащо лице",
+      "персонаж",
+      "отличителна черта",
+      "характер",
+      "знак",
+      "символ"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "charity",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "благотворителна организация",
+    "bgAlternatives": [
+      "благотворителност",
+      "милосърдие"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "chef",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "главен готвач",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "chemistry",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "химия",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "chip",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "чипс",
+    "bgAlternatives": [
+      "отломка",
+      "счупено парче",
+      "треска",
+      "жетон",
+      "чип",
+      "чупя",
+      "отчупвам",
+      "нащърбвам се"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "choice",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "отбран",
+    "bgAlternatives": [
+      "избор"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "church",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "църква",
+    "bgAlternatives": [
+      "черква",
+      "богослужение",
+      "литургия",
+      "църковна служба"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "cigarette",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "цигара",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "classical",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "класически",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "clear",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "чист",
+    "bgAlternatives": [
+      "прозрачен",
+      "светъл",
+      "ясен",
+      "свободен",
+      "несъмнен",
+      "напълно",
+      "съвсем",
+      "покрай",
+      "изяснявам",
+      "разчиствам",
+      "освобождавам се",
+      "оправдавам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "clearly",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "ясно",
+    "bgAlternatives": [
+      "очевидно",
+      "несъмнено"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "clever",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "даровит",
+    "bgAlternatives": [
+      "изкусен",
+      "способен",
+      "сръчен",
+      "умен",
+      "изобретателен"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "climate",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "климат",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "closed",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "затворен",
+    "bgAlternatives": [
+      "ограничен"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "clothing",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "дрехи",
+    "bgAlternatives": [
+      "облекло"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "cloud",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "облак",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "coach",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "пощенска кола",
+    "bgAlternatives": [
+      "вагон",
+      "треньор",
+      "треньорка",
+      "тренирам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "coast",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "бряг",
+    "bgAlternatives": [
+      "[[морски]] бряг",
+      "крайбрежие",
+      "каботирам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "code",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "код",
+    "bgAlternatives": [
+      "кодекс",
+      "шифър",
+      "кодирам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "colleague",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "колега",
+    "bgAlternatives": [
+      "колежка"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "collect",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "натрупвам",
+    "bgAlternatives": [
+      "събера",
+      "събирам",
+      "инкасирам",
+      "колекционирам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "column",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "стълб",
+    "bgAlternatives": [
+      "колона",
+      "графа",
+      "шпалта"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "comedy",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "комедия",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "comfortable",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "удобен",
+    "bgAlternatives": [
+      "комфортен",
+      "уютен",
+      "достатъчен",
+      "надежден"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "comment",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "коментар",
+    "bgAlternatives": [
+      "бележка",
+      "коментирам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "communicate",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "предавам",
+    "bgAlternatives": [
+      "причастявам се",
+      "съобщавам",
+      "пренасям",
+      "общувам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "community",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "общество",
+    "bgAlternatives": [
+      "общност",
+      "община",
+      "колония",
+      "комуна"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "compete",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "състезавам се",
+    "bgAlternatives": [
+      "съпернича",
+      "съревновавам се"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "competition",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "конкуренция",
+    "bgAlternatives": [
+      "съперничество",
+      "надпревара",
+      "съревнование",
+      "състезание"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "complain",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "оплаквам се",
+    "bgAlternatives": [
+      "подавам жалба"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "completely",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "напълно",
+    "bgAlternatives": [
+      "съвсем"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "condition",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "състояние",
+    "bgAlternatives": [
+      "условие",
+      "приспособявам се",
+      "свиквам",
+      "обуславям"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "conference",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "конгрес",
+    "bgAlternatives": [
+      "конференция"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "connect",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "свързвам",
+    "bgAlternatives": [
+      "съединявам",
+      "асоциирам",
+      "правя връзка"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "consider",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "замислям",
+    "bgAlternatives": [
+      "обмислям",
+      "разглеждам",
+      "считам за"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "contain",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "побирам",
+    "bgAlternatives": [
+      "съдържам",
+      "въздържам",
+      "сдържам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "context",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "обстановка",
+    "bgAlternatives": [
+      "ситуация",
+      "контекст"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "continent",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "сдържан",
+    "bgAlternatives": [
+      "умерен",
+      "континент"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "continue",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "продължавам",
+    "bgAlternatives": [
+      "трая",
+      "[[запазвам]] се",
+      "оставам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "cooker",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "печка",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "corner",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "връх",
+    "bgAlternatives": [
+      "ръб",
+      "ъгъл",
+      "край",
+      "кът",
+      "кътче"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "correctly",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "правилно",
+    "bgAlternatives": [
+      "вярно"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "count",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "смятане",
+    "bgAlternatives": [
+      "граф",
+      "брой",
+      "отброяване",
+      "броя",
+      "имам значение"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "couple",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "чифт",
+    "bgAlternatives": [
+      "двойка",
+      "двоица",
+      "малко",
+      "няколко",
+      "полюс",
+      "свързвам",
+      "сдвоявам",
+      "съединявам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "cover",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "коричен",
+    "bgAlternatives": [
+      "капак",
+      "похлупак",
+      "корица",
+      "куверт",
+      "прибор",
+      "укритие",
+      "подвързия",
+      "покривам",
+      "скривам",
+      "прикривам",
+      "възкачвам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "crazy",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "луд",
+    "bgAlternatives": [
+      "побъркан",
+      "смахнат"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "creative",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "творчески",
+    "bgAlternatives": [
+      "съзидателен"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "credit",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "доверие",
+    "bgAlternatives": [
+      "вяра",
+      "кредит",
+      "[[кредитен]] [[рейтинг]]",
+      "вярвам",
+      "приписвам",
+      "припиша"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "crime",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "престъпление",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "criminal",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "криминален",
+    "bgAlternatives": [
+      "престъпен",
+      "престъпник",
+      "престъпница",
+      "престъпничка"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "crowd",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "навалица",
+    "bgAlternatives": [
+      "куп",
+      "тълпа",
+      "тълпя се"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "crowded",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "препълнен",
+    "bgAlternatives": [
+      "претъпкан"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "cry",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "плач",
+    "bgAlternatives": [
+      "крясък",
+      "рев",
+      "вик",
+      "плача",
+      "викам",
+      "крещя",
+      "рева"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "cupboard",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "шкаф",
+    "bgAlternatives": [
+      "бюфет"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "curly",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "вълнист",
+    "bgAlternatives": [
+      "къдрав"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "daily",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "всекидневен",
+    "bgAlternatives": [
+      "ежедневен",
+      "всекидневно",
+      "ежедневно",
+      "ежедневник"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "danger",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "опасност",
+    "bgAlternatives": [
+      "заплаха"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "data",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "данни",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "dead",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "мъртъв",
+    "bgAlternatives": [
+      "неодушевен",
+      "изгасен",
+      "неподвижен",
+      "направо",
+      "напълно",
+      "абсолютно",
+      "безусловно"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "deal",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "елов",
+    "bgAlternatives": [
+      "чамов",
+      "чам",
+      "количество",
+      "раздаване",
+      "чамова дъска",
+      "сделка",
+      "имам работа с",
+      "справям се",
+      "търгувам",
+      "раздавам",
+      "разпределям"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "death",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "смърт",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "decision",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "решение",
+    "bgAlternatives": [
+      "решителност",
+      "по точки"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "deep",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "дълбок",
+    "bgAlternatives": [
+      "нисък",
+      "наситен",
+      "тъмен",
+      "дълбоко",
+      "глъбина"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "definitely",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "със сигурност",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "degree",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "научна степен",
+    "bgAlternatives": [
+      "градус",
+      "степен",
+      "стъпка",
+      "фаза",
+      "равнище"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "dentist",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "стоматолог",
+    "bgAlternatives": [
+      "дентален лекар",
+      "дентист",
+      "зъбар",
+      "зъболекар"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "department",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "департамент",
+    "bgAlternatives": [
+      "отдел",
+      "отделение"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "depend",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "завися",
+    "bgAlternatives": [
+      "разчитам",
+      "вярвам",
+      "вися"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "desert",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "пуст",
+    "bgAlternatives": [
+      "пустинен",
+      "пустиня",
+      "заслужено",
+      "дезертирам",
+      "изоставям",
+      "напускам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "designer",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "дизайнер",
+    "bgAlternatives": [
+      "дизайнерка"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "destroy",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "разруша",
+    "bgAlternatives": [
+      "разрушавам",
+      "унищожа",
+      "унищожавам",
+      "изтребвам",
+      "изтребя",
+      "изтривам",
+      "изтрия"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "detective",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "детектив",
+    "bgAlternatives": [
+      "разузнавач"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "develop",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "развивам се",
+    "bgAlternatives": [
+      "развивам",
+      "разработвам",
+      "проявявам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "device",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "апарат",
+    "bgAlternatives": [
+      "приспособление",
+      "устройство",
+      "план",
+      "проект",
+      "девиз"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "diary",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "дневник",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "differently",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "различно",
+    "bgAlternatives": [
+      "другояче"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "digital",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "на [[пръст|пръстите]]",
+    "bgAlternatives": [
+      "пръстов",
+      "дигитален",
+      "цифров"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "direct",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "пряк",
+    "bgAlternatives": [
+      "непосредствен",
+      "ръководя",
+      "управлявам",
+      "насочвам",
+      "упътвам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "direction",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "посока",
+    "bgAlternatives": [
+      "направление",
+      "насока",
+      "напътвствие",
+      "указание",
+      "режисура",
+      "ръководство",
+      "управление"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "director",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "ръководител",
+    "bgAlternatives": [
+      "директор",
+      "директорка",
+      "режисьор",
+      "режисьорка",
+      "ръководителка"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "disagree",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "не съвпадам",
+    "bgAlternatives": [
+      "различавам се"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "disappear",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "изчезвам",
+    "bgAlternatives": [
+      "изчезна"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "disaster",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "злополука",
+    "bgAlternatives": [
+      "бедствие",
+      "катастрофа"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "discover",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "откривам",
+    "bgAlternatives": [
+      "открия",
+      "намеря",
+      "намирам",
+      "разкривам",
+      "разкрия"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "discovery",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "откритие",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "discussion",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "дискусия",
+    "bgAlternatives": [
+      "обсъждане",
+      "разискване"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "disease",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "болест",
+    "bgAlternatives": [
+      "заболяване"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "distance",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "отдалеченост",
+    "bgAlternatives": [
+      "разстояние",
+      "дистанция",
+      "дистанцирам се"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "document",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "документ",
+    "bgAlternatives": [
+      "документирам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "drama",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "драма",
+    "bgAlternatives": [
+      "пиеса"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "drawing",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "рисунка",
+    "bgAlternatives": [
+      "чертеж",
+      "рисуване",
+      "теглене",
+      "чертане"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "driving",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "двигателен",
+    "bgAlternatives": [
+      "движещ",
+      "пороен",
+      "шофиране"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "drop",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "капка",
+    "bgAlternatives": [
+      "драже",
+      "падам",
+      "понижавам се",
+      "спадам",
+      "изпускам",
+      "пропускам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "drug",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "лекарство",
+    "bgAlternatives": [
+      "дрога",
+      "наркотик",
+      "взимам наркотици",
+      "дрогирам се"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "earn",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "заработвам",
+    "bgAlternatives": [
+      "заработя",
+      "заслужавам",
+      "печеля"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "earth",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "Земя",
+    "bgAlternatives": [
+      "пръст",
+      "земя",
+      "почва",
+      "суша",
+      "заземяване",
+      "дупка",
+      "свят",
+      "заземявам",
+      "заравям"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "easily",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "лесно",
+    "bgAlternatives": [
+      "безспорно",
+      "несъмнено"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "education",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "образование",
+    "bgAlternatives": [
+      "възпитание"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "effect",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "ефект",
+    "bgAlternatives": [
+      "резултат",
+      "следствие",
+      "имущество",
+      "извършвам",
+      "осъществявам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "electric",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "електрически",
+    "bgAlternatives": [
+      "електронен",
+      "наелектризиращ"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "electricity",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "електричество",
+    "bgAlternatives": [
+      "електроенергия"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "electronic",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "електронен",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "employ",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "давам работа",
+    "bgAlternatives": [
+      "наемам",
+      "употребявам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "employee",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "работник",
+    "bgAlternatives": [
+      "работничка",
+      "служещ",
+      "служеща"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "employer",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "работодател",
+    "bgAlternatives": [
+      "работодателка"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "empty",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "празен",
+    "bgAlternatives": [
+      "изпразвам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "ending",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "завършване",
+    "bgAlternatives": [
+      "край"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "energy",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "енергия",
+    "bgAlternatives": [
+      "сила"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "engine",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "мотор",
+    "bgAlternatives": [
+      "двигател"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "engineer",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "машинист",
+    "bgAlternatives": [
+      "инженер",
+      "инженерка"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "enormous",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "грамаден",
+    "bgAlternatives": [
+      "огромен"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "enter",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "влизам",
+    "bgAlternatives": [
+      "вляза",
+      "въведа",
+      "въвеждам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "environment",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "околна среда",
+    "bgAlternatives": [
+      "обстановка",
+      "среда",
+      "окръжение"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "equipment",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "снаряжение",
+    "bgAlternatives": [
+      "екипировка",
+      "оборудване",
+      "екипиране"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "error",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "грешка",
+    "bgAlternatives": [
+      "отклонение",
+      "показвам грешка",
+      "съдържам грешка"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "especially",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "особено",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "essay",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "есе",
+    "bgAlternatives": [
+      "очерк",
+      "съчинение"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "everyday",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "ежедневен",
+    "bgAlternatives": [
+      "делничен",
+      "обикновен"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "everywhere",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "навсякъде",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "evidence",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "доказтелство",
+    "bgAlternatives": [
+      "доказателство",
+      "доказвам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "exact",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "точен",
+    "bgAlternatives": [
+      "прецизен",
+      "акуратен",
+      "верен",
+      "изисквам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "exactly",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "точно",
+    "bgAlternatives": [
+      "именно"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "excellent",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "отличен",
+    "bgAlternatives": [
+      "превъзходен"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "except",
+    "pos": "prep.",
+    "level": "A2",
+    "bg": "освен ако",
+    "bgAlternatives": [
+      "освен",
+      "с изключение на",
+      "изключвам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "exist",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "съществувам",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "expect",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "очаква се",
+    "bgAlternatives": [
+      "очаквам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "experience",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "опит",
+    "bgAlternatives": [
+      "преживяване",
+      "изпитвам",
+      "преживявам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "experiment",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "експеримент",
+    "bgAlternatives": [
+      "опит",
+      "експериментирам",
+      "опитам",
+      "опитвам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "explanation",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "обяснение",
+    "bgAlternatives": [
+      "оправдание"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "express",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "бърз",
+    "bgAlternatives": [
+      "експресен",
+      "изричен",
+      "точен",
+      "експрес",
+      "изразявам",
+      "изразя",
+      "изстисквам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "expression",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "изразяване",
+    "bgAlternatives": [
+      "израз",
+      "изражение"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "extreme",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "краен",
+    "bgAlternatives": [
+      "най-далечен",
+      "екстремен",
+      "извънреден",
+      "драстичен",
+      "последен",
+      "крайност"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "extremely",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "крайно",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "factor",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "агент",
+    "bgAlternatives": [
+      "фактор",
+      "коефициент",
+      "множител",
+      "разлагам на множители"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "factory",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "фабрика",
+    "bgAlternatives": [
+      "завод"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "fail",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "не [[сполучвам]]",
+    "bgAlternatives": [
+      "не [[успявам]]",
+      "провалям",
+      "не [[работя]]",
+      "отказвам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "fair",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "хубав",
+    "bgAlternatives": [
+      "красив",
+      "невинен",
+      "неопетнен",
+      "рус",
+      "справедлив",
+      "задоволителен",
+      "значителен",
+      "попътен",
+      "панаир",
+      "пазар",
+      "подравнявам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "fan",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "ветрило",
+    "bgAlternatives": [
+      "фен",
+      "запалянко",
+      "вентилатор",
+      "вея",
+      "отвявам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "fashion",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "мода",
+    "bgAlternatives": [
+      "маниер",
+      "начин",
+      "оформям"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "fear",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "страх",
+    "bgAlternatives": [
+      "боязън",
+      "опасение",
+      "фобия",
+      "боя се",
+      "плаша",
+      "страхувам се"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "feature",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "свойство",
+    "bgAlternatives": [
+      "особеност",
+      "признак",
+      "черта",
+      "подчертавам",
+      "характеризирам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "feed",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "зоб",
+    "bgAlternatives": [
+      "паша",
+      "хранене",
+      "захранване",
+      "захранвам",
+      "питая",
+      "храня",
+      "ям"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "fiction",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "белетристика",
+    "bgAlternatives": [
+      "измислица",
+      "художествена литература"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "field",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "нива",
+    "bgAlternatives": [
+      "поле",
+      "кър",
+      "[[боен|бойно]] [[поле]]",
+      "боище",
+      "полесражение",
+      "игрище",
+      "бранш",
+      "област",
+      "задавам",
+      "отговарям"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "figure",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "фигура",
+    "bgAlternatives": [
+      "личност",
+      "снага",
+      "стан",
+      "телосложение",
+      "цифра",
+      "число",
+      "шевица",
+      "движение",
+      "разбера",
+      "разбирам",
+      "съобразя",
+      "съобразявам",
+      "изчислявам",
+      "пресмятам",
+      "смятам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "finally",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "окончателно",
+    "bgAlternatives": [
+      "накрая",
+      "безвъзвратно",
+      "напълно"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "finger",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "пръст",
+    "bgAlternatives": [
+      "посочвам",
+      "пипам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "firstly",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "първо",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "fishing",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "риболов",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "fix",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "дилема",
+    "bgAlternatives": [
+      "доза",
+      "закрепване",
+      "фиксирам",
+      "закрепвам",
+      "поправя",
+      "поправям",
+      "приготвям"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "flu",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "грип",
+    "bgAlternatives": [
+      "инфлуенца"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "following",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "следващ",
+    "bgAlternatives": [
+      "следен",
+      "попътен",
+      "свита",
+      "след"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "foreign",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "чуждестранен",
+    "bgAlternatives": [
+      "чужд"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "forest",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "лес",
+    "bgAlternatives": [
+      "гора",
+      "залесявам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "fork",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "вила",
+    "bgAlternatives": [
+      "вилица",
+      "вилка",
+      "разклонение",
+      "разклонявам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "formal",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "формален",
+    "bgAlternatives": [
+      "официален",
+      "формен",
+      "церемониален"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "fortunately",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "щастливо",
+    "bgAlternatives": [
+      "сполучливо",
+      "за щастие"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "forward",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "преден",
+    "bgAlternatives": [
+      "нахален",
+      "напред",
+      "нататък",
+      "занапред",
+      "нападател",
+      "крило",
+      "препращам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "fresh",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "свеж",
+    "bgAlternatives": [
+      "дързък",
+      "самонадеян",
+      "пресен",
+      "сладък"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "frog",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "жаба",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "furniture",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "мебел",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "further",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "по-далеч",
+    "bgAlternatives": [
+      "по-нататък",
+      "освен това",
+      "подкрепям",
+      "съдействам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "gallery",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "галерия",
+    "bgAlternatives": [
+      "пасаж"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "gap",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "дупка",
+    "bgAlternatives": [
+      "празно място",
+      "пролука",
+      "пропуск",
+      "проход",
+      "интервал",
+      "дефиле",
+      "пролом",
+      "прорязвам",
+      "пробивам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "gas",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "газ",
+    "bgAlternatives": [
+      "газове",
+      "природна газ",
+      "бензин",
+      "давам газ",
+      "зареждам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "gate",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "гейт",
+    "bgAlternatives": [
+      "врата",
+      "капия",
+      "порта",
+      "изход",
+      "касов сбор"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "general",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "общ",
+    "bgAlternatives": [
+      "всеобщ",
+      "генерален",
+      "главен",
+      "обикновен",
+      "разпространен",
+      "генерал"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "gift",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "дар",
+    "bgAlternatives": [
+      "подарък",
+      "дарба",
+      "талант",
+      "дарявам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "goal",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "цел",
+    "bgAlternatives": [
+      "врата",
+      "гол"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "god",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "Бог",
+    "bgAlternatives": [
+      "бог",
+      "идол",
+      "обожествявам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "golf",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "голф",
+    "bgAlternatives": [
+      "играя голф"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "government",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "правителство",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "grass",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "трева",
+    "bgAlternatives": [
+      "морава",
+      "тревна площ",
+      "хашиш",
+      "издайник",
+      "информатор",
+      "издавам",
+      "предавам",
+      "затревявам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "greet",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "посрещам",
+    "bgAlternatives": [
+      "приемам",
+      "приветствам",
+      "поздравявам",
+      "заговарям"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "ground",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "смлян",
+    "bgAlternatives": [
+      "земя",
+      "почва",
+      "дъно",
+      "база",
+      "основа",
+      "фон",
+      "терен",
+      "заземяване"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "guest",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "гост",
+    "bgAlternatives": [
+      "гостенка",
+      "клиент",
+      "посетител",
+      "гостувам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "gun",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "оръдие",
+    "bgAlternatives": [
+      "пистолет",
+      "пушка",
+      "лонгборд"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "guy",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "ванта",
+    "bgAlternatives": [
+      "хора",
+      "приятел",
+      "човек"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "habit",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "навик",
+    "bgAlternatives": [
+      "[[монашески|монашеско]] [[облекло]]",
+      "привичка",
+      "одеяние",
+      "хабитус",
+      "обличам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "hall",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "вестибюл",
+    "bgAlternatives": [
+      "аула",
+      "зала",
+      "общежитие"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "happily",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "щастливо",
+    "bgAlternatives": [
+      "за щастие",
+      "с удоволствие"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "auxiliary",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "помощен",
+    "bgAlternatives": [
+      "спомагателен",
+      "допълнителен",
+      "резервен",
+      "помощник"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "headache",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "главоболие",
+    "bgAlternatives": [
+      "неприятност"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "heart",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "сърце",
+    "bgAlternatives": [
+      "чувства",
+      "купа",
+      "сърцевина",
+      "ядро"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "heavy",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "тежък",
+    "bgAlternatives": [
+      "натоварен",
+      "сериозен",
+      "силен",
+      "тежко",
+      "злодей"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "height",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "височина",
+    "bgAlternatives": [
+      "ръст",
+      "връх"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "helpful",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "отзивчив",
+    "bgAlternatives": [
+      "полезен",
+      "услужлив"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "hero",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "герой",
+    "bgAlternatives": [
+      "юнак",
+      "героиня",
+      "юнакиня"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "hers",
+    "pos": "pron.",
+    "level": "A2",
+    "bg": "неин",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "hide",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "кожа",
+    "bgAlternatives": [
+      "гюме",
+      "крия",
+      "скрия",
+      "скривам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "hill",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "хълм",
+    "bgAlternatives": [
+      "възвишение",
+      "загърлям"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "hockey",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "хокей",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "hold",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "хващане",
+    "bgAlternatives": [
+      "трюм",
+      "захват",
+      "издръжливост",
+      "държа",
+      "в сила съм",
+      "владея",
+      "задържам",
+      "запазвам",
+      "хващам",
+      "съдържам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "hole",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "карцер",
+    "bgAlternatives": [
+      "дупка",
+      "яма",
+      "слабост",
+      "пробив",
+      "отвор",
+      "пробивам",
+      "издълбавам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "huge",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "грамаден",
+    "bgAlternatives": [
+      "огромен"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "ideal",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "абстрактен",
+    "bgAlternatives": [
+      "въображаем",
+      "идеален",
+      "съвършен",
+      "идеал"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "identify",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "идентифицирам",
+    "bgAlternatives": [
+      "отъждествявам се"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "ill",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "болен",
+    "bgAlternatives": [
+      "зле",
+      "щета",
+      "беда",
+      "болест",
+      "мъчнотия",
+      "трудност"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "illness",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "болест",
+    "bgAlternatives": [
+      "заболяване",
+      "боледуване"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "image",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "изображение",
+    "bgAlternatives": [
+      "образ",
+      "представа",
+      "имидж",
+      "изобразявам",
+      "отразявам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "immediately",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "веднага",
+    "bgAlternatives": [
+      "незабавно",
+      "непосредствено",
+      "веднага след"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "impossible",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "невероятен",
+    "bgAlternatives": [
+      "невъзможен",
+      "неизпълним",
+      "неосъществим"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "including",
+    "pos": "prep.",
+    "level": "A2",
+    "bg": "включително",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "incredible",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "невероятен",
+    "bgAlternatives": [
+      "поразителен",
+      "чудесен"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "independent",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "независим",
+    "bgAlternatives": [
+      "независим кандидат",
+      "независим отбор"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "industry",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "прилежание",
+    "bgAlternatives": [
+      "трудолюбие",
+      "усърдие",
+      "индустрия",
+      "промишленост",
+      "отрасъл"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "informal",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "неофициален",
+    "bgAlternatives": [
+      "неформален",
+      "безцеремонен",
+      "разговорен"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "injury",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "вреда",
+    "bgAlternatives": [
+      "рана",
+      "щета"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "insect",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "насекомо",
+    "bgAlternatives": [
+      "инсект",
+      "нищожество"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "instead",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "вместо",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "instruction",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "обучение",
+    "bgAlternatives": [
+      "указание",
+      "инструкция",
+      "инструктаж",
+      "директива"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "instructor",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "инструктор",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "instrument",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "музикален инструмент",
+    "bgAlternatives": [
+      "инструмент",
+      "апарат",
+      "прибор",
+      "оръдие",
+      "сечиво"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "intelligent",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "интелигентен",
+    "bgAlternatives": [
+      "схватлив",
+      "умен",
+      "разумен",
+      "смислен"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "international",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "интернационален",
+    "bgAlternatives": [
+      "международен"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "introduction",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "внасяне",
+    "bgAlternatives": [
+      "въвеждане",
+      "представяне",
+      "въведение",
+      "предговор"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "invent",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "изобретявам",
+    "bgAlternatives": [
+      "измислям"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "invention",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "изобретение",
+    "bgAlternatives": [
+      "откритие",
+      "изобретателност",
+      "изобретяване",
+      "откриване"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "invitation",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "покана",
+    "bgAlternatives": [
+      "съблазън"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "invite",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "покана",
+    "bgAlternatives": [
+      "каня",
+      "поканвам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "involve",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "намесвам",
+    "bgAlternatives": [
+      "включвам в себе си",
+      "заплитам",
+      "оплитам",
+      "обхващам",
+      "увивам",
+      "усложнявам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "item",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "обект",
+    "bgAlternatives": [
+      "предмет",
+      "параграф",
+      "пункт",
+      "точка"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "itself",
+    "pos": "pron.",
+    "level": "A2",
+    "bg": "самият",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "jam",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "конфитюр",
+    "bgAlternatives": [
+      "джем",
+      "сладко",
+      "притеснение",
+      "задръстване",
+      "импровизация",
+      "забивка",
+      "натъпквам",
+      "натиквам",
+      "задръствам",
+      "заглушавам",
+      "импровизирам",
+      "притискам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "jazz",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "джаз",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "jewellery",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "бижута",
+    "bgAlternatives": [
+      "бижутерия",
+      "накит"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "journalist",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "журналист",
+    "bgAlternatives": [
+      "журналистка",
+      "репортер",
+      "репортерка"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "kid",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "хлапак",
+    "bgAlternatives": [
+      "хлапачка",
+      "хлапе",
+      "козле",
+      "яре",
+      "шегувам се",
+      "будалкам",
+      "занасям",
+      "занеса",
+      "майтапя се"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "kill",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "убийство",
+    "bgAlternatives": [
+      "убивам",
+      "убия",
+      "спирам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "king",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "крал",
+    "bgAlternatives": [
+      "цар",
+      "поп"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "knee",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "коляно",
+    "bgAlternatives": [
+      "наколенник",
+      "коленича"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "knife",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "нож",
+    "bgAlternatives": [
+      "кинжал",
+      "режа",
+      "пробождам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "knock",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "чукане",
+    "bgAlternatives": [
+      "удар",
+      "чукам",
+      "чукна",
+      "критикувам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "knowledge",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "знание",
+    "bgAlternatives": [
+      "осведоменост",
+      "познание"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "lady",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "стопанка",
+    "bgAlternatives": [
+      "дама",
+      "лейди",
+      "госпожа"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "lake",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "светлочервен лак",
+    "bgAlternatives": [
+      "езеро"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "lamp",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "лампа",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "laptop",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "лаптоп",
+    "bgAlternatives": [
+      "ноутбук"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "laughter",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "смях",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "law",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "закон",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "lawyer",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "адвокат",
+    "bgAlternatives": [
+      "адвокатка",
+      "юрист",
+      "юристка"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "lazy",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "ленив",
+    "bgAlternatives": [
+      "мързелив"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "leader",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "вожд",
+    "bgAlternatives": [
+      "водач",
+      "лидер",
+      "водосточна тръба",
+      "уводна статия"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "learning",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "учене",
+    "bgAlternatives": [
+      "учение",
+      "познание"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "lemon",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "лимонов",
+    "bgAlternatives": [
+      "лимон"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "lend",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "заема",
+    "bgAlternatives": [
+      "заемам",
+      "поддавам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "level",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "равен",
+    "bgAlternatives": [
+      "еднакъв",
+      "равномерен",
+      "уравновесен",
+      "либела",
+      "нивелир",
+      "ниво",
+      "изравнявам",
+      "нивелирам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "lifestyle",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "начин на живот",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "likely",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "вероятен",
+    "bgAlternatives": [
+      "възможен",
+      "подходящ",
+      "правдоподобен"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "listener",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "слушател",
+    "bgAlternatives": [
+      "слушателка"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "lost",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "загубен",
+    "bgAlternatives": [
+      "изгубен"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "lovely",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "възхитителен",
+    "bgAlternatives": [
+      "очарователен",
+      "прекрасен",
+      "прелестен",
+      "красавица"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "luck",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "късмет",
+    "bgAlternatives": [
+      "щастие",
+      "успех"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "lucky",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "късметлийка",
+    "bgAlternatives": [
+      "късметлия",
+      "щастлив"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "major",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "важен",
+    "bgAlternatives": [
+      "значителен",
+      "пълнолетен",
+      "мажорен",
+      "майор",
+      "специализация"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "manage",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "съумявам",
+    "bgAlternatives": [
+      "ръководя",
+      "управлявам",
+      "справям се",
+      "боравя",
+      "владея",
+      "успявам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "manager",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "директор",
+    "bgAlternatives": [
+      "мениджър",
+      "ръководител",
+      "ръководителка",
+      "импресарио"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "manner",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "начин",
+    "bgAlternatives": [
+      "способ",
+      "обноски",
+      "стил",
+      "нрави"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "marry",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "оженвам",
+    "bgAlternatives": [
+      "оженя",
+      "бракосъчетавам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "material",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "материален",
+    "bgAlternatives": [
+      "веществен",
+      "светски",
+      "важен",
+      "съществен",
+      "материал",
+      "материя",
+      "градеж",
+      "състав"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "mathematics",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "математика",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "media",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "Мидия",
+    "bgAlternatives": [
+      "медия",
+      "масмедия"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "medical",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "медицински",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "medicine",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "лекарство",
+    "bgAlternatives": [
+      "лечение",
+      "медицина"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "memory",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "памет",
+    "bgAlternatives": [
+      "спомен"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "mention",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "споменаване",
+    "bgAlternatives": [
+      "споменавам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "metal",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "метал",
+    "bgAlternatives": [
+      "метъл"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "method",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "метод",
+    "bgAlternatives": [
+      "начин"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "mirror",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "огледало",
+    "bgAlternatives": [
+      "отразявам се",
+      "отразявам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "missing",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "изгубен",
+    "bgAlternatives": [
+      "липсващ",
+      "отсъстващ"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "monkey",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "маймун",
+    "bgAlternatives": [
+      "маймуна"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "moon",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "Луна",
+    "bgAlternatives": [
+      "луна",
+      "спътник",
+      "месец"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "mostly",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "в повечето случаи",
+    "bgAlternatives": [
+      "в по-голямата си част",
+      "главно",
+      "обикновено"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "motorcycle",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "мотоциклет",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "movement",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "движение",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "musical",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "музикален",
+    "bgAlternatives": [
+      "мелодичен",
+      "мюзикъл"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "musician",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "музикант",
+    "bgAlternatives": [
+      "музикантка"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "myself",
+    "pos": "pron.",
+    "level": "A2",
+    "bg": "самият",
+    "bgAlternatives": [
+      "се",
+      "себе си"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "narrow",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "тесен",
+    "bgAlternatives": [
+      "ограничен",
+      "подробен",
+      "щателен",
+      "стеснявам",
+      "стеснявам се"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "national",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "държавен",
+    "bgAlternatives": [
+      "народен",
+      "национален",
+      "поданик"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "nature",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "природа",
+    "bgAlternatives": [
+      "същност"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "nearly",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "почти",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "necessary",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "наложителен",
+    "bgAlternatives": [
+      "необходим",
+      "нужен",
+      "потребен",
+      "неизбежен",
+      "нужник"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "neck",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "врат",
+    "bgAlternatives": [
+      "шия",
+      "шийка",
+      "яка",
+      "гърло"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "nervous",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "на нервите",
+    "bgAlternatives": [
+      "нервен",
+      "нервничещ",
+      "раздразнителен"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "network",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "мрежа",
+    "bgAlternatives": [
+      "омрежвам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "noise",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "шум",
+    "bgAlternatives": [
+      "смущения",
+      "шумя"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "noisy",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "шумен",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "none",
+    "pos": "pron.",
+    "level": "A2",
+    "bg": "никак",
+    "bgAlternatives": [
+      "никой",
+      "нищо"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "normal",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "нормален",
+    "bgAlternatives": [
+      "обикновен",
+      "здрав",
+      "нормативен",
+      "нормала",
+      "перпендикуляр"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "normally",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "обикновено",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "novel",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "нов",
+    "bgAlternatives": [
+      "необикновен",
+      "роман",
+      "новела"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "nowhere",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "никъде",
+    "bgAlternatives": [
+      "наникъде"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "nut",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "лешник",
+    "bgAlternatives": [
+      "орех",
+      "фъстък",
+      "ядка",
+      "гайка",
+      "изпразване",
+      "ташак",
+      "глава"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "ocean",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "океан",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "officer",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "длъжностно лице",
+    "bgAlternatives": [
+      "чиновник",
+      "чиновница",
+      "чиновничка",
+      "офицер"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "oil",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "олио",
+    "bgAlternatives": [
+      "масло",
+      "нефт",
+      "нафта",
+      "нафт",
+      "петрол",
+      "смазвам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "onto",
+    "pos": "prep.",
+    "level": "A2",
+    "bg": "върху",
+    "bgAlternatives": [
+      "на"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "opportunity",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "възможност",
+    "bgAlternatives": [
+      "шанс",
+      "[[удобен]] [[случай]]"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "option",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "алтернатива",
+    "bgAlternatives": [
+      "вариант",
+      "избор",
+      "опция",
+      "опцион"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "ordinary",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "нормален",
+    "bgAlternatives": [
+      "обикновен",
+      "обичаен"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "organization",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "организираност",
+    "bgAlternatives": [
+      "организация"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "organize",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "устройвам",
+    "bgAlternatives": [
+      "организирам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "original",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "начален",
+    "bgAlternatives": [
+      "първичен",
+      "първоначален",
+      "нов",
+      "оригинален",
+      "оригинал"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "oven",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "пещ",
+    "bgAlternatives": [
+      "фурна"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "owner",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "владетел",
+    "bgAlternatives": [
+      "владетелка",
+      "притежател",
+      "притежателка",
+      "собственик",
+      "собственичка"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "pack",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "вързоп",
+    "bgAlternatives": [
+      "денк",
+      "група",
+      "колода",
+      "глутница",
+      "навържа",
+      "навързвам",
+      "натъпквам",
+      "натъпча",
+      "опаковам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "pain",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "болка",
+    "bgAlternatives": [
+      "страдание",
+      "досадник",
+      "боля",
+      "страдам",
+      "измъчвам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "painter",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "рисувач",
+    "bgAlternatives": [
+      "рисувачка",
+      "художник",
+      "художничка",
+      "фалин",
+      "бояджийка",
+      "бояджия"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "palace",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "дворец",
+    "bgAlternatives": [
+      "палат",
+      "чертог"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "pants",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "гащи",
+    "bgAlternatives": [
+      "панталон",
+      "панталони"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "parking",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "паркиране",
+    "bgAlternatives": [
+      "паркинг"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "particular",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "особен",
+    "bgAlternatives": [
+      "специфичен",
+      "характерен",
+      "специален",
+      "взискателен",
+      "придирчив",
+      "обстоятелствен",
+      "подробен",
+      "детайл",
+      "подробност"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "pass",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "пропуск",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "passenger",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "пасажер",
+    "bgAlternatives": [
+      "пасажерка",
+      "пътник",
+      "пътница",
+      "пътничка"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "patient",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "търпелив",
+    "bgAlternatives": [
+      "настойчив",
+      "пациент",
+      "пациентка",
+      "болен",
+      "болна"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "pattern",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "кройка",
+    "bgAlternatives": [
+      "модел",
+      "образец",
+      "шаблон",
+      "десен",
+      "шарка",
+      "закономерност"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "peace",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "мир",
+    "bgAlternatives": [
+      "спокойствие",
+      "тишина"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "penny",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "пени",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "perform",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "извършвам",
+    "bgAlternatives": [
+      "изпълнявам",
+      "представям",
+      "играя"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "perhaps",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "може би",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "permission",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "позволение",
+    "bgAlternatives": [
+      "разрешение"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "personality",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "индивидуалност",
+    "bgAlternatives": [
+      "личност",
+      "знаменитост",
+      "нападки"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "pet",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "любим",
+    "bgAlternatives": [
+      "домашен",
+      "домашен любимец",
+      "питомец",
+      "любимец",
+      "галя",
+      "милвам",
+      "галя се",
+      "любя"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "physical",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "материален",
+    "bgAlternatives": [
+      "телесен",
+      "физически",
+      "медицински преглед"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "physics",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "физика",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "pick",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "кирка",
+    "bgAlternatives": [
+      "търнокоп",
+      "избор",
+      "заслон",
+      "избера",
+      "избирам",
+      "хвана",
+      "хващам",
+      "бера",
+      "късам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "pilot",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "контролен",
+    "bgAlternatives": [
+      "опитен",
+      "авиатор",
+      "авиаторка",
+      "летец",
+      "пилот",
+      "кормчия",
+      "лоцман",
+      "пилотирам",
+      "превеждам",
+      "прекарвам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "planet",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "планета",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "plate",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "блюдо",
+    "bgAlternatives": [
+      "чиния",
+      "посуда",
+      "пластина",
+      "регистрационен номер",
+      "покритие",
+      "олимпийски диск",
+      "гравюра",
+      "фотоплака",
+      "плоча",
+      "анод",
+      "плака",
+      "галванизирам",
+      "покривам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "platform",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "естрада",
+    "bgAlternatives": [
+      "перон",
+      "платформа",
+      "подиум",
+      "трибуна",
+      "висока подметка"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "pocket",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "джобен",
+    "bgAlternatives": [
+      "джоб",
+      "пари",
+      "средства",
+      "чувал",
+      "вкарвам",
+      "прибирам в джоба",
+      "присвоявам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "polite",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "вежлив",
+    "bgAlternatives": [
+      "учтив"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "pollution",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "замърсяване",
+    "bgAlternatives": [
+      "полюция"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "population",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "население",
+    "bgAlternatives": [
+      "популация"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "position",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "местоположение",
+    "bgAlternatives": [
+      "място",
+      "длъжност",
+      "пост",
+      "положение",
+      "ранг",
+      "позиция",
+      "метод на предположението",
+      "поставям",
+      "слагам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "possession",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "владение",
+    "bgAlternatives": [
+      "имущество",
+      "собственост",
+      "притежание",
+      "обсебеност"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "possibility",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "възможност",
+    "bgAlternatives": [
+      "вероятност"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "poster",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "афиш",
+    "bgAlternatives": [
+      "обява",
+      "плакат",
+      "греда"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "power",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "власт",
+    "bgAlternatives": [
+      "сила",
+      "мощност",
+      "увеличение",
+      "степен"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "predict",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "прогнозирам",
+    "bgAlternatives": [
+      "предскажа",
+      "предсказвам",
+      "пророкувам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "president",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "президент",
+    "bgAlternatives": [
+      "президентка",
+      "председател",
+      "председателка"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "prevent",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "предотвратявам",
+    "bgAlternatives": [
+      "попречвам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "print",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "печат",
+    "bgAlternatives": [
+      "шрифт",
+      "отпечатък",
+      "следа",
+      "щампа",
+      "копие",
+      "печатам",
+      "пиша с печатни букви",
+      "правя отпечатък",
+      "принтирам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "printer",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "печатар",
+    "bgAlternatives": [
+      "печатарка",
+      "принтер"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "prison",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "дранголник",
+    "bgAlternatives": [
+      "зандан",
+      "затвор",
+      "тъмница",
+      "тюрма"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "prize",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "плячка",
+    "bgAlternatives": [
+      "трофей",
+      "награда",
+      "премия",
+      "печалба",
+      "съревнование",
+      "състезание",
+      "лост",
+      "оценя",
+      "оценявам",
+      "ценя",
+      "разбивам (с лост)",
+      "разбия (с лост)"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "process",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "процес",
+    "bgAlternatives": [
+      "развитие",
+      "ход",
+      "обработвам",
+      "осмислям"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "produce",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "продукция",
+    "bgAlternatives": [
+      "произведение",
+      "добив",
+      "реколта",
+      "изработвам",
+      "изработя",
+      "произвеждам",
+      "произведа",
+      "предоставям",
+      "продуцирам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "professional",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "професионален",
+    "bgAlternatives": [
+      "професионалист",
+      "специалист"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "professor",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "преподавател",
+    "bgAlternatives": [
+      "професор",
+      "изповядващ"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "program",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "програма",
+    "bgAlternatives": [
+      "предаване",
+      "програмирам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "progress",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "напредване",
+    "bgAlternatives": [
+      "прогрес",
+      "напредък",
+      "ход",
+      "напредвам",
+      "прогресирам",
+      "развивам се"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "pronounce",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "заявявам",
+    "bgAlternatives": [
+      "обявявам",
+      "произнасям",
+      "произнеса",
+      "[[чета]] на глас"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "protect",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "защитавам",
+    "bgAlternatives": [
+      "предпазвам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "provide",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "обезпечавам",
+    "bgAlternatives": [
+      "поставям условие",
+      "давам",
+      "доставям",
+      "снабдявам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "pub",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "кръчма",
+    "bgAlternatives": [
+      "механа",
+      "пивница",
+      "пъб"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "publish",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "издавам",
+    "bgAlternatives": [
+      "издам",
+      "разглася",
+      "разгласявам",
+      "публикувам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "pull",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "дърпане",
+    "bgAlternatives": [
+      "теглене",
+      "теглителна сила",
+      "преимущество",
+      "привлекателност",
+      "гребане",
+      "дърпам",
+      "влека",
+      "тегля",
+      "влача",
+      "бера",
+      "късам",
+      "изтеглям",
+      "разтеглям"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "purpose",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "цел",
+    "bgAlternatives": [
+      "мотив",
+      "намерение",
+      "решителност",
+      "възнамерявам",
+      "предназначавам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "push",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "бутане",
+    "bgAlternatives": [
+      "тласкане",
+      "усилие",
+      "натиск",
+      "бутам",
+      "блъскам",
+      "промоцирам",
+      "притискам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "quality",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "качествен",
+    "bgAlternatives": [
+      "качество",
+      "свойство",
+      "положение"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "quantity",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "количество",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "queen",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "кралица",
+    "bgAlternatives": [
+      "царица",
+      "дама",
+      "майка"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "quietly",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "тихо",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "railway",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "[[железопътен|железопътна]] [[линия]]",
+    "bgAlternatives": [
+      "[[релсов]] път",
+      "железница"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "raise",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "повишение",
+    "bgAlternatives": [
+      "вдигане",
+      "вдигам",
+      "възкресявам",
+      "отглеждам",
+      "събирам",
+      "повдигам",
+      "повишавам",
+      "увеличавам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "rate",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "коефициент",
+    "bgAlternatives": [
+      "отношение",
+      "скорост",
+      "темпо",
+      "тарифа",
+      "норма",
+      "ставка",
+      "разценка",
+      "клас",
+      "местен данък",
+      "оценявам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "rather",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "за предпочитане",
+    "bgAlternatives": [
+      "по-скоро",
+      "по-точно",
+      "донякъде",
+      "доста"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "reach",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "достигане",
+    "bgAlternatives": [
+      "протягане",
+      "пространство",
+      "протежение",
+      "преувеличение",
+      "галс",
+      "достигам",
+      "достигна",
+      "подавам",
+      "посягам",
+      "протягам",
+      "свързвам се",
+      "простирам",
+      "протягам се",
+      "пристигам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "react",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "изпълнявам отново",
+    "bgAlternatives": [
+      "реагирам",
+      "взаимодействам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "realize",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "осъзнавам",
+    "bgAlternatives": [
+      "разбирам",
+      "изпълнявам",
+      "осъществявам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "receive",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "получа",
+    "bgAlternatives": [
+      "получавам",
+      "приемам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "recent",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "неотдавнашен",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "recently",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "в последно време",
+    "bgAlternatives": [
+      "напоследък",
+      "неотдавна"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "reception",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "получаване",
+    "bgAlternatives": [
+      "приемане",
+      "прием",
+      "рецепция"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "recipe",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "способ",
+    "bgAlternatives": [
+      "рецепта"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "recognize",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "зачета",
+    "bgAlternatives": [
+      "зачитам",
+      "познавам",
+      "позная",
+      "признавам",
+      "призная",
+      "осъзнавам",
+      "осъзная"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "recommend",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "препоръчвам",
+    "bgAlternatives": [
+      "препоръчам",
+      "съветвам",
+      "поверявам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "recording",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "запис",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "recycle",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "преработвам",
+    "bgAlternatives": [
+      "използвам отново"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "reduce",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "отслабвам",
+    "bgAlternatives": [
+      "понижавам",
+      "намалявам",
+      "редуцирам",
+      "опростявам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "refer",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "обръщам се",
+    "bgAlternatives": [
+      "отпращам",
+      "позовавам се",
+      "приписвам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "region",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "зона",
+    "bgAlternatives": [
+      "край",
+      "област",
+      "район",
+      "регион"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "regular",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "монашески",
+    "bgAlternatives": [
+      "правилен",
+      "официален",
+      "формален",
+      "регулярен",
+      "обичаен",
+      "систематичен",
+      "нормален",
+      "редовен посетител"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "relationship",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "връзка",
+    "bgAlternatives": [
+      "отношение",
+      "родство",
+      "роднинство"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "remove",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "отстранявам",
+    "bgAlternatives": [
+      "елиминирам",
+      "премествам се"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "repair",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "поправка",
+    "bgAlternatives": [
+      "ремонт",
+      "посещение",
+      "изправност",
+      "поправя",
+      "поправям",
+      "ремонтирам",
+      "отивам",
+      "отправям се"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "replace",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "замествам",
+    "bgAlternatives": [
+      "връщам",
+      "заменям"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "reporter",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "репортер",
+    "bgAlternatives": [
+      "репортерка"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "request",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "заявка",
+    "bgAlternatives": [
+      "молба",
+      "просба",
+      "прошение",
+      "търсене",
+      "моля"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "researcher",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "изследовател",
+    "bgAlternatives": [
+      "изследователка"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "respond",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "отговарям",
+    "bgAlternatives": [
+      "реагирам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "response",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "отговор",
+    "bgAlternatives": [
+      "отзвук",
+      "отзив",
+      "отговаряне"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "rise",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "издигане",
+    "bgAlternatives": [
+      "нарастване",
+      "възвишение",
+      "вдигам",
+      "втасвам",
+      "изгрявам",
+      "увеличавам се",
+      "възкръсвам",
+      "възниквам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "role",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "роля",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "roof",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "покрив",
+    "bgAlternatives": [
+      "таван"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "route",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "път",
+    "bgAlternatives": [
+      "курс",
+      "маршрут"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "rubbish",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "глупости",
+    "bgAlternatives": [
+      "боклук",
+      "руини"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "rude",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "груб",
+    "bgAlternatives": [
+      "невъзпитан",
+      "буен",
+      "невъздържан",
+      "силен",
+      "неприличен",
+      "покварен",
+      "необработен",
+      "прост",
+      "суров"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "runner",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "бегач",
+    "bgAlternatives": [
+      "бегачка",
+      "куриер",
+      "разсилен",
+      "маховик"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "running",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "бягащ",
+    "bgAlternatives": [
+      "тичащ",
+      "текущ",
+      "непрекъснат",
+      "плавен",
+      "пълзящ",
+      "сълзящ",
+      "последователно",
+      "бяг",
+      "бягане",
+      "дебит",
+      "сълзене"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "safe",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "в безопасност",
+    "bgAlternatives": [
+      "сигурен",
+      "безопасен",
+      "надежден",
+      "сейф"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "sail",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "ветрило",
+    "bgAlternatives": [
+      "крило",
+      "платно",
+      "ветроходство",
+      "нося се"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "sailing",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "ветроходен",
+    "bgAlternatives": [
+      "ветроходство",
+      "отплаване"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "salary",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "заплата",
+    "bgAlternatives": [
+      "надница"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "sale",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "продажба",
+    "bgAlternatives": [
+      "разпродажба",
+      "търг"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "sauce",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "сос",
+    "bgAlternatives": [
+      "дързост",
+      "нахалство",
+      "слагам сос"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "save",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "спасяване",
+    "bgAlternatives": [
+      "запис",
+      "спася",
+      "спасявам",
+      "избавям",
+      "икономисвам",
+      "предпазвам",
+      "пестя",
+      "спестявам",
+      "запазвам",
+      "записвам",
+      "натрупвам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "scared",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "уплашен",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "scary",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "страшен",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "scene",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "сцена",
+    "bgAlternatives": [
+      "декор",
+      "картина",
+      "пейзаж"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "schedule",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "опис",
+    "bgAlternatives": [
+      "списък",
+      "график",
+      "програма",
+      "разписание",
+      "правя списък",
+      "планирам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "screen",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "преграда",
+    "bgAlternatives": [
+      "щит",
+      "мрежа за прозорец",
+      "сито",
+      "екран",
+      "заслон",
+      "параван",
+      "пресявам",
+      "скривам",
+      "филтрирам",
+      "екранирам",
+      "преграждам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "season",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "сезон",
+    "bgAlternatives": [
+      "слагам подправки",
+      "изсушавам",
+      "изсъхвам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "seat",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "СЕАТ",
+    "bgAlternatives": [
+      "Сеат",
+      "седалище",
+      "място",
+      "седалка",
+      "стол",
+      "позиционирам",
+      "поставям",
+      "назначавам",
+      "слагам да седне"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "secondly",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "второ",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "secretary",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "секретар",
+    "bgAlternatives": [
+      "секретарка",
+      "министър",
+      "министърка",
+      "писалище"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "seem",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "изглеждам",
+    "bgAlternatives": [
+      "струвам се"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "sense",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "сетиво",
+    "bgAlternatives": [
+      "чувство",
+      "съзнание",
+      "значение",
+      "смисъл",
+      "усет",
+      "усещам",
+      "възприемам",
+      "чувствам",
+      "разбирам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "separate",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "отделен",
+    "bgAlternatives": [
+      "разделен",
+      "разделям",
+      "разглобявам",
+      "разлагам",
+      "отделям"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "series",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "поредица",
+    "bgAlternatives": [
+      "серия",
+      "сериал",
+      "ред"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "serious",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "сериозен",
+    "bgAlternatives": [
+      "важен"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "serve",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "сервис",
+    "bgAlternatives": [
+      "връчвам",
+      "допринасям",
+      "обслужвам",
+      "отбивам военна служба",
+      "подчинен съм",
+      "сервирам",
+      "замествам",
+      "лежа",
+      "служа",
+      "слуга съм",
+      "подсилвам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "service",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "услуга",
+    "bgAlternatives": [
+      "служба",
+      "сервиз",
+      "сервис",
+      "връчване",
+      "обслужвам",
+      "поддържам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "shake",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "клатене",
+    "bgAlternatives": [
+      "шейк",
+      "момент",
+      "клатя",
+      "треса",
+      "клатя се",
+      "разтърсвам",
+      "ръкувам се",
+      "отърсвам се"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "shape",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "положение",
+    "bgAlternatives": [
+      "състояние",
+      "форма",
+      "вид",
+      "оформям"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "sheet",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "лист",
+    "bgAlternatives": [
+      "тава",
+      "фолио",
+      "пласт",
+      "слой",
+      "шкот",
+      "платно",
+      "фурнир",
+      "покривам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "ship",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "ство",
+    "bgAlternatives": [
+      "кораб",
+      "параход",
+      "изпращам",
+      "загребвам вода"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "shoulder",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "плешка",
+    "bgAlternatives": [
+      "рамо",
+      "издатина",
+      "фланец",
+      "нарамвам",
+      "нагърбвам се"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "side",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "страна",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "simple",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "наивен",
+    "bgAlternatives": [
+      "простодушен",
+      "прост",
+      "лесен"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "singing",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "пеене",
+    "bgAlternatives": [
+      "издайничество"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "sir",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "господин",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "site",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "местоположение",
+    "bgAlternatives": [
+      "място",
+      "позиция",
+      "интернет страница"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "size",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "големина",
+    "bgAlternatives": [
+      "размер",
+      "клей",
+      "номер",
+      "лепило за тапети",
+      "коричка на рана",
+      "оразмеря",
+      "оразмерявам",
+      "измазване",
+      "преценя",
+      "преценявам",
+      "сортирам по размер"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "skiing",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "ски спорт",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "skin",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "кожа",
+    "bgAlternatives": [
+      "кора",
+      "кожица",
+      "ципа",
+      "мях",
+      "обелвам",
+      "одирам",
+      "финтирам",
+      "обирам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "sky",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "небе",
+    "bgAlternatives": [
+      "небеса"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "slowly",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "бавно",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "smartphone",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "смартфон",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "smoking",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "димящ",
+    "bgAlternatives": [
+      "пушещ",
+      "пушене",
+      "тютюнопушене"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "soap",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "сапун",
+    "bgAlternatives": [
+      "сапунисвам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "soccer",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "футбол",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "social",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "общителен",
+    "bgAlternatives": [
+      "социален",
+      "обществен",
+      "вечеринка"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "society",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "общество",
+    "bgAlternatives": [
+      "дружество",
+      "общественост"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "sock",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "чорап",
+    "bgAlternatives": [
+      "удар"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "soft",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "тих",
+    "bgAlternatives": [
+      "нежен",
+      "мек",
+      "изнежен"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "soldier",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "войник",
+    "bgAlternatives": [
+      "аскер",
+      "воин",
+      "солдат",
+      "служа"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "solution",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "разтвор",
+    "bgAlternatives": [
+      "решение"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "solve",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "реша",
+    "bgAlternatives": [
+      "решавам",
+      "разкривам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "sort",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "вид",
+    "bgAlternatives": [
+      "тип",
+      "сорт",
+      "подреждане",
+      "сортиране",
+      "подреждам",
+      "разпределям",
+      "сортирам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "source",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "извор",
+    "bgAlternatives": [
+      "източник"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "speaker",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "говорител",
+    "bgAlternatives": [
+      "говорителка",
+      "високоговорител",
+      "председател",
+      "оратор"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "specific",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "специфичен",
+    "bgAlternatives": [
+      "определен",
+      "особен",
+      "характерен",
+      "видов"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "speech",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "реч",
+    "bgAlternatives": [
+      "говор",
+      "непряка реч"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "speed",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "бързина",
+    "bgAlternatives": [
+      "скорост",
+      "движа се бързо",
+      "превишавам скоростта"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "spider",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "паяк",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "spoon",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "лъжица",
+    "bgAlternatives": [
+      "блесна"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "stage",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "етап",
+    "bgAlternatives": [
+      "стадий",
+      "фаза",
+      "сцена",
+      "естрада",
+      "подиум",
+      "дилижанс",
+      "[[предметен|предметна]] [[маса]]",
+      "стъпало",
+      "поставям",
+      "инсценирам",
+      "организирам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "stair",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "стъпало",
+    "bgAlternatives": [
+      "стълбище"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "stamp",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "подпечатване",
+    "bgAlternatives": [
+      "печат",
+      "щампа",
+      "щемпел",
+      "клеймо",
+      "лепенка",
+      "тъпча",
+      "стъпквам",
+      "отпечатвам",
+      "щамповам",
+      "франкирам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "state",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "състояние",
+    "bgAlternatives": [
+      "държава",
+      "щат",
+      "провинция",
+      "заявявам",
+      "изразявам",
+      "обявявам",
+      "съобщавам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "steal",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "кражба",
+    "bgAlternatives": [
+      "промоция",
+      "крада",
+      "открадвам",
+      "прокрадвам се"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "step",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "стъпка",
+    "bgAlternatives": [
+      "стъпало",
+      "фаза",
+      "крачка",
+      "ход",
+      "походка",
+      "стълби",
+      "стъпвам",
+      "крача"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "stomach",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "стомах",
+    "bgAlternatives": [
+      "желъдък",
+      "корем",
+      "шкембе",
+      "понасям",
+      "търпя"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "stone",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "каменен",
+    "bgAlternatives": [
+      "камък",
+      "скъпоценен камък",
+      "костилка",
+      "стоун",
+      "пул",
+      "пребивам с камъни",
+      "вадя костилките"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "store",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "склад",
+    "bgAlternatives": [
+      "запас",
+      "складирам",
+      "съхранявам се",
+      "записвам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "storm",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "буря",
+    "bgAlternatives": [
+      "щорм",
+      "пристъп",
+      "щурм",
+      "щурмувам",
+      "бушувам",
+      "фуча"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "strange",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "странен",
+    "bgAlternatives": [
+      "непознат",
+      "чужд",
+      "чуждестранен"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "strategy",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "стратегия",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "structure",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "структура",
+    "bgAlternatives": [
+      "строеж",
+      "организираност",
+      "устройство",
+      "структурирам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "stupid",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "глупав",
+    "bgAlternatives": [
+      "тъп",
+      "вцепенен",
+      "зашеметен"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "succeed",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "приемник съм на",
+    "bgAlternatives": [
+      "следвам",
+      "успявам",
+      "наследявам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "successful",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "успешен",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "suddenly",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "внезапно",
+    "bgAlternatives": [
+      "ненадейно"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "suggest",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "намеквам",
+    "bgAlternatives": [
+      "предлагам",
+      "внушавам",
+      "предложа",
+      "препоръчвам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "suggestion",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "предложение",
+    "bgAlternatives": [
+      "предлагане",
+      "внушение"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "suit",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "цвят",
+    "bgAlternatives": [
+      "костюм",
+      "комплект",
+      "пригаждам",
+      "подходящ съм",
+      "съответствам",
+      "обличам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "suppose",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "предполагам",
+    "bgAlternatives": [
+      "предположа",
+      "допускам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "surprising",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "изненадващ",
+    "bgAlternatives": [
+      "неочакван"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "survey",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "обзор",
+    "bgAlternatives": [
+      "преглед",
+      "изследване",
+      "топографско заснемане",
+      "анкета",
+      "допитване",
+      "изследвам",
+      "инспектирам",
+      "анкетирам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "symbol",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "символ",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "system",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "система",
+    "bgAlternatives": [
+      "организация",
+      "порядък"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "tablet",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "плочка",
+    "bgAlternatives": [
+      "табелка"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "target",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "цел",
+    "bgAlternatives": [
+      "мишена",
+      "нишан",
+      "задание",
+      "намерение",
+      "целя се"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "task",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "работа",
+    "bgAlternatives": [
+      "задание",
+      "задача",
+      "давам задача"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "teaching",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "учение",
+    "bgAlternatives": [
+      "обучение",
+      "преподаване"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "technology",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "технология",
+    "bgAlternatives": [
+      "техника"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "teenage",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "юношески",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "temperature",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "температура",
+    "bgAlternatives": [
+      "треска"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "term",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "условие",
+    "bgAlternatives": [
+      "лични отношения",
+      "семестър",
+      "период",
+      "срок",
+      "член"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "themselves",
+    "pos": "pron.",
+    "level": "A2",
+    "bg": "себе си",
+    "bgAlternatives": [
+      "самите"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "thick",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "дебел",
+    "bgAlternatives": [
+      "тлъст",
+      "гъст",
+      "изобилен",
+      "неясен",
+      "тъп",
+      "близък",
+      "гъсто"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "thief",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "арамийка",
+    "bgAlternatives": [
+      "арамия",
+      "крадец"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "thin",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "тънък",
+    "bgAlternatives": [
+      "слаб",
+      "разреден",
+      "рядък",
+      "малочислен",
+      "оскъден",
+      "резен",
+      "изтънявам",
+      "разреждам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "thinking",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "мисъл",
+    "bgAlternatives": [
+      "размишление"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "thought",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "идея",
+    "bgAlternatives": [
+      "мисъл",
+      "мислене",
+      "размисъл"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "throw",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "мятане",
+    "bgAlternatives": [
+      "хвърляне",
+      "хвърлей",
+      "риск",
+      "изхвърлям",
+      "премествам",
+      "губя умишлено",
+      "хвърлям"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "tip",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "връх",
+    "bgAlternatives": [
+      "заострен край",
+      "съвет",
+      "бакшиш",
+      "отвал",
+      "давам [[бакшиш]]",
+      "килвам",
+      "накланям",
+      "обръщам",
+      "изливам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "tool",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "инструмент",
+    "bgAlternatives": [
+      "оръдие",
+      "средство",
+      "пионка",
+      "изработвам",
+      "оборудвам",
+      "бъхтя се"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "touch",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "осезание",
+    "bgAlternatives": [
+      "допир",
+      "докосване",
+      "прикосновение",
+      "оттенък",
+      "[[малък|малко]] [[количество]]",
+      "следа",
+      "общуване",
+      "докосвам",
+      "допирам",
+      "докосна",
+      "допра",
+      "вълнувам",
+      "трогвам",
+      "трогна"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "tour",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "обиколка",
+    "bgAlternatives": [
+      "турне",
+      "обикалям",
+      "обхождам",
+      "гастролирам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "tourism",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "туризъм",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "towel",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "кърпа",
+    "bgAlternatives": [
+      "пешкир",
+      "ръченик"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "tower",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "кула",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "track",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "следа",
+    "bgAlternatives": [
+      "стъпка",
+      "стъпало",
+      "ходило",
+      "пътека",
+      "писта",
+      "[[релс|релсов]] път",
+      "участък",
+      "междуосие",
+      "трак",
+      "бягания",
+      "проследявам",
+      "следя",
+      "проседявам",
+      "проследя",
+      "следвам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "tradition",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "традиция",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "traditional",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "традиционен",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "trainer",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "треньор",
+    "bgAlternatives": [
+      "треньорка"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "training",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "обучение",
+    "bgAlternatives": [
+      "тренировка"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "transport",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "превозване",
+    "bgAlternatives": [
+      "пренасяне",
+      "транспорт",
+      "увлечение",
+      "каторжник",
+      "превозвам",
+      "пренасям",
+      "транспортирам",
+      "изпращам на каторга",
+      "увличам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "traveller",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "пътник",
+    "bgAlternatives": [
+      "пътница",
+      "пътничка",
+      "пътешественик",
+      "пътешественица",
+      "пътешественичка"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "trouble",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "беда",
+    "bgAlternatives": [
+      "неприятност",
+      "зор",
+      "усилие",
+      "затруднение",
+      "авария",
+      "неизправност",
+      "смущение",
+      "безпокоя",
+      "тревожа"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "truck",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "камион",
+    "bgAlternatives": [
+      "боклуци"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "typical",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "типичен",
+    "bgAlternatives": [
+      "характерен"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "understanding",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "отзивчив",
+    "bgAlternatives": [
+      "схватлив",
+      "разбиране",
+      "споразумение",
+      "схващане",
+      "съгласие"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "unfortunately",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "за жалост",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "unhappy",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "нещастен",
+    "bgAlternatives": [
+      "неудовлетворён",
+      "неудачен",
+      "неподходящ"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "uniform",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "еднообразен",
+    "bgAlternatives": [
+      "еднороден",
+      "мундир",
+      "униформа",
+      "обличам в униформa"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "unit",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "единичен",
+    "bgAlternatives": [
+      "единица",
+      "поделение",
+      "подразделение"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "united",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "обединен",
+    "bgAlternatives": [
+      "съвместен",
+      "съединен"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "unusual",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "необикновен",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "user",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "потребител",
+    "bgAlternatives": [
+      "потребителка",
+      "използвач"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "usual",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "обикновен",
+    "bgAlternatives": [
+      "обичаен"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "valley",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "долина",
+    "bgAlternatives": [
+      "дол",
+      "долчинка"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "van",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "фургон",
+    "bgAlternatives": [
+      "вагон"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "variety",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "вид",
+    "bgAlternatives": [
+      "разнообразие",
+      "сорт",
+      "разновидност"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "vehicle",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "возило",
+    "bgAlternatives": [
+      "превозно средство"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "view",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "вид",
+    "bgAlternatives": [
+      "изглед",
+      "гледка",
+      "кръгозор",
+      "пейзаж",
+      "възглед",
+      "гледна точка",
+      "намерение",
+      "разбиране",
+      "считам",
+      "гледам",
+      "разглеждам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "virus",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "вирус",
+    "bgAlternatives": [
+      "компютърен вирус"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "voice",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "глас",
+    "bgAlternatives": [
+      "звук",
+      "говорител",
+      "залог",
+      "изказва",
+      "гласува",
+      "озвучава"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "war",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "война",
+    "bgAlternatives": [
+      "[[водя]] [[война]]",
+      "воювам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "washing",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "миене",
+    "bgAlternatives": [
+      "пране"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "wave",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "вълна",
+    "bgAlternatives": [
+      "махане",
+      "мексиканска вълна",
+      "вея се",
+      "къдря",
+      "махам",
+      "махна"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "weak",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "слаб",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "web",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "мрежа",
+    "bgAlternatives": [
+      "плавателна ципа",
+      "рулон",
+      "уеб"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "wedding",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "сватба",
+    "bgAlternatives": [
+      "бракосъчетание",
+      "съединяване",
+      "съчетаване"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "weight",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "тегло",
+    "bgAlternatives": [
+      "тежест",
+      "авторитет",
+      "влияние",
+      "гира",
+      "гюлле",
+      "лост",
+      "щанга",
+      "теглилка",
+      "товаря",
+      "обременявам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "wet",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "мокър",
+    "bgAlternatives": [
+      "влажен",
+      "мокря",
+      "напикавам",
+      "намокрям се"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "wheel",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "колело",
+    "bgAlternatives": [
+      "джанта",
+      "щурвал",
+      "търкалям",
+      "вия се",
+      "кръжа"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "while",
+    "pos": "conj.",
+    "level": "A2",
+    "bg": "докато",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "whole",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "цял",
+    "bgAlternatives": [
+      "изцяло",
+      "цялост"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "wide",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "широк",
+    "bgAlternatives": [
+      "обширен",
+      "просторен",
+      "страничен",
+      "навсякъде",
+      "нашироко",
+      "напълно",
+      "съвсем",
+      "далеч от целта"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "wild",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "див",
+    "bgAlternatives": [
+      "буен",
+      "необуздан",
+      "неистов",
+      "подивял"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "winner",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "победител",
+    "bgAlternatives": [
+      "победителка"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "wood",
+    "pos": "n.",
+    "level": "A2",
+    "bg": "дърво",
+    "bgAlternatives": [
+      "дървесина",
+      "дърва",
+      "гора",
+      "духов инструмент",
+      "надървяне",
+      "залесявам"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "wooden",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "дървен",
+    "bgAlternatives": [
+      "вдървен"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "working",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "работещ",
+    "bgAlternatives": [
+      "работен",
+      "работнически",
+      "действие",
+      "функциониране",
+      "обработка",
+      "опериране",
+      "ферментация"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "worried",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "загрижен",
+    "bgAlternatives": [
+      "разтревожен"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "worry",
+    "pos": "v.",
+    "level": "A2",
+    "bg": "тревога",
+    "bgAlternatives": [
+      "безпокойство",
+      "безпокоя",
+      "тревожа се",
+      "досаждам",
+      "натрапвам се",
+      "давя"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "worse",
+    "pos": "adj.",
+    "level": "A2",
+    "bg": "по-лош",
+    "bgAlternatives": [],
+    "source": "freedict"
+  },
+  {
+    "word": "yet",
+    "pos": "adv.",
+    "level": "A2",
+    "bg": "все още",
+    "bgAlternatives": [
+      "още"
+    ],
+    "source": "freedict"
+  },
+  {
+    "word": "yours",
+    "pos": "pron.",
+    "level": "A2",
+    "bg": "ваш",
+    "bgAlternatives": [
+      "твой"
+    ],
+    "source": "freedict"
+  }
+]
