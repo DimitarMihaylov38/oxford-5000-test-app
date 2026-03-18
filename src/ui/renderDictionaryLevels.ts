@@ -25,15 +25,43 @@ export function renderDictionaryLevelsScreen(
         <h2 class="section-title">Речник по нива</h2>
 
         <div class="level-grid">
-          <button class="level-btn level-a1" data-level="A1">A1</button>
-          <button class="level-btn level-a2" data-level="A2">A2</button>
-          <button class="level-btn level-b1" data-level="B1">B1</button>
-          <button class="level-btn level-b2" data-level="B2">B2</button>
-          <button class="level-btn level-c1" data-level="C1">C1</button>
-          <button class="level-btn level-a1-a2" data-level="A1-A2">A1-A2</button>
-          <button class="level-btn level-a1-b1" data-level="A1-B1">A1-B1</button>
-          <button class="level-btn level-a1-b2" data-level="A1-B2">A1-B2</button>
-          <button class="level-btn level-all" data-level="ALL">ALL</button>
+          <button class="level-btn" data-level="A1" style="background:#facc15; color:#111827;">A1</button>
+          <button class="level-btn" data-level="A2" style="background:#fb923c; color:#111827;">A2</button>
+          <button class="level-btn" data-level="B1" style="background:#ef4444; color:#ffffff;">B1</button>
+          <button class="level-btn" data-level="B2" style="background:#f472b6; color:#ffffff;">B2</button>
+          <button class="level-btn" data-level="C1" style="background:#a855f7; color:#ffffff;">C1</button>
+
+          <button
+            class="level-btn"
+            data-level="A1-A2"
+            style="background: linear-gradient(135deg, #fde68a 0%, #fb923c 100%); color: #111827;"
+          >
+            A1-A2
+          </button>
+
+          <button
+            class="level-btn"
+            data-level="A1-B1"
+            style="background: linear-gradient(135deg, #fde68a 0%, #fb923c 45%, #ef4444 100%); color: #ffffff;"
+          >
+            A1-B1
+          </button>
+
+          <button
+            class="level-btn"
+            data-level="A1-B2"
+            style="background: linear-gradient(135deg, #fde68a 0%, #fb923c 30%, #ef4444 65%, #f472b6 100%); color: #ffffff;"
+          >
+            A1-B2
+          </button>
+
+          <button
+            class="level-btn"
+            data-level="ALL"
+            style="background: linear-gradient(135deg, #fde68a 0%, #fb923c 25%, #ef4444 50%, #f472b6 75%, #a855f7 100%); color: #111827;"
+          >
+            ALL
+          </button>
         </div>
 
         <div class="home-actions">

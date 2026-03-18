@@ -154,8 +154,13 @@ input {
   border-radius: 18px;
   font-size: 20px;
   font-weight: 800;
-  color: #111827;
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.12);
+  border: none;
+  appearance: none;
+  -webkit-appearance: none;
+  -webkit-tap-highlight-color: transparent;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
 }
 
 .level-btn:active {
@@ -503,19 +508,6 @@ input {
   }
 }
 
-.level-a1-a2 {
-  background: linear-gradient(135deg, #fde68a 0%, #fb923c 100%);
-}
-
-.level-a1-b1 {
-  background: linear-gradient(135deg, #fde68a 0%, #fb923c 45%, #ef4444 100%);
-  color: #fff;
-}
-
-.level-a1-b2 {
-  background: linear-gradient(135deg, #fde68a 0%, #fb923c 30%, #ef4444 65%, #f472b6 100%);
-  color: #fff;
-}
 
 .dictionary-search-wrap {
   margin-bottom: 14px;
@@ -536,4 +528,5 @@ input {
   border-color: #18181b;
   background: #ffffff;
 }
+
 }
